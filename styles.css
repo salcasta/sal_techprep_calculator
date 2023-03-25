@@ -8,7 +8,8 @@ body {
     background-color: #D89A9E;
     max-width: 400px;
     margin: 10vh auto 0 auto;
-    box-shadow: 0 0 43px 17px #AEB4A9;
+    //box-shadow: 0 0 43px 17px #AEB4A9;
+    border-radius: 10px;
 }
 
 #display {
